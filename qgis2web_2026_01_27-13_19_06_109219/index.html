@@ -16,7 +16,7 @@
         <style>
         html, body {
             width: 100%;
-            overflow-y: auto;
+            overflow: visible;
             padding: 0;
             margin: 0;
             background-color: antiquewhite;
@@ -27,6 +27,8 @@
             height: 600px;
             margin: auto;
             border-radius: 10px;
+            margin-top: 2em;
+           
         }
 
         header{
@@ -37,10 +39,14 @@
             color: rgb(74, 74, 162);
             position: sticky;
             top: 0;
+            background-color: rgb(203, 185, 162);
+            z-index: 999;
         }
 
         h1{
-            font-size: 50px;
+            padding: 0;
+            margin: 0;
+            font-size: 80px;
             
         }
         .sec{
@@ -49,7 +55,12 @@
         }
         .sec h1{
             font-size: 60px;
+            margin-top: 80px;
             font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 1000px;
+        }
+        .leaflet-container{
+            z-index: 400;
         }
         </style>
         <title></title>
