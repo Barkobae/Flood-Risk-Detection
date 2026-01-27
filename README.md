@@ -16,12 +16,9 @@ __Technologies Used__
 - NumPy  
 - Pandas  
 - Matplotlib
-
-__Working Principle__
-1. The user inputs latitude and longitude values  
-2. The system processes the geographical data  
-3. Flood risk is analyzed using predefined conditions or datasets  
-4. The output displays the flood risk level (Low / Moderate / High)
+- QGIS and qgis2web
+- Jupyter Notebook
+- Javascript/HTML
 
 
 __Features__
