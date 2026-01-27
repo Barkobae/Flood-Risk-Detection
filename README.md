@@ -2,17 +2,17 @@
 
 **Flood Risk Detection** 
 
-__Description__
+# __Description__
 The **Flood Risk Detection** project is designed to analyze flood-prone areas using geographical coordinates such as **latitude and longitude**. The system evaluates the risk level of flooding for a given location and classifies it into different risk categories. This project aims to support disaster awareness and early risk identification.
 
-__Objectives__
+# __Objectives__
 - Detect flood risk using latitude and longitude data  
 - Identify areas vulnerable to flooding  
 - Assist in disaster management and planning  
 - Provide a simple and effective flood risk analysis system  
 
 
-__Technologies Used__
+# __Technologies Used__
 - Python  
 - NumPy  
 - Pandas  
@@ -22,20 +22,20 @@ __Technologies Used__
 - Javascript/HTML
 
 
-__Features__
+# __Features__
 - Location-based flood risk detection  
 - Clear risk classification  
 - Simple and user-friendly implementation  
 
 
-__Applications__
+# __Applications__
 - Flood risk assessment  
 - Disaster management support  
 - Urban and environmental planning  
 - Educational and research use  
 
 
-__Future Scope__
+# __Future Scope__
 - Integration with real-time weather data  
 - Map-based flood visualization  
 - Machine learning-based prediction  
