@@ -11,6 +11,7 @@ __Objectives__
 - Assist in disaster management and planning  
 - Provide a simple and effective flood risk analysis system  
 
+
 __Technologies Used__
 - Python  
 - NumPy  
@@ -23,7 +24,6 @@ __Technologies Used__
 
 __Features__
 - Location-based flood risk detection  
-- Easy input using latitude and longitude  
 - Clear risk classification  
 - Simple and user-friendly implementation  
 
