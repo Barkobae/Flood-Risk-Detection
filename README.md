@@ -1,41 +1,20 @@
-# Flood-Risk-Detection
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-**Flood Risk Detection** 
+# Run and deploy your AI Studio app
 
-# __Description__
-The **Flood Risk Detection** project is designed to analyze flood-prone areas using geographical coordinates such as **latitude and longitude**. The system evaluates the risk level of flooding for a given location and classifies it into different risk categories. This project aims to support disaster awareness and early risk identification.
+This contains everything you need to run your app locally.
 
-# __Objectives__
-- Detect flood risk using latitude and longitude data  
-- Identify areas vulnerable to flooding  
-- Assist in disaster management and planning  
-- Provide a simple and effective flood risk analysis system  
+View your app in AI Studio: https://ai.studio/apps/temp/1
 
+## Run Locally
 
-# __Technologies Used__
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib
-- QGIS and qgis2web
-- Jupyter Notebook
-- Javascript/HTML
+**Prerequisites:**  Node.js
 
 
-# __Features__
-- Location-based flood risk detection  
-- Clear risk classification  
-- Simple and user-friendly implementation  
-
-
-# __Applications__
-- Flood risk assessment  
-- Disaster management support  
-- Urban and environmental planning  
-- Educational and research use  
-
-
-# __Future Scope__
-- Integration with real-time weather data  
-- Map-based flood visualization  
-- Machine learning-based prediction  
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
