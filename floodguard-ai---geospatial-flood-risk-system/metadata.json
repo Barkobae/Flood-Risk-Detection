@@ -1,0 +1,8 @@
+
+{
+  "name": "FloodGuard AI - Geospatial Flood Risk System",
+  "description": "An AI-enabled geospatial prototype for flood risk analysis, combining machine learning predictions, explainable AI, and interactive mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
